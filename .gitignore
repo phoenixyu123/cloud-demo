@@ -1,0 +1,5 @@
+# Project exclude paths
+/eureka-server/target/
+/feign-api/target/
+/order-service/target/
+/user-service/target/
